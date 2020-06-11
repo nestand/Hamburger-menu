@@ -55,6 +55,6 @@
     background: inherit;
 }
 
-.menu-wrap .hamburger>dix::after {
+.menu-wrap .hamburger>div::after {
     top: 10px;
 }
